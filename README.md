@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Sobiii
-- 🌱 I’m a student undertaking an Msc in Data Science and AI
+
+- 🌱 A student undertaking an Msc in Data Science and AI
 
 
 <!---
