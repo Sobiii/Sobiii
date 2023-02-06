@@ -1,5 +1,5 @@
 
-- 🌱 A student undertaking an Msc in Data Science and AI
+- 🌱 A student studying a Masters in Data Science and Artifical Intelligence
 
 
 <!---
